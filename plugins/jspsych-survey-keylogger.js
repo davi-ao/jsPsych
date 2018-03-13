@@ -1,8 +1,11 @@
 /**
+ * jsPsych Keylogger
  * jspsych-survey-text
- * a jspsych plugin for collecting keystroke events' data based on jspsych-survey-text
+ * A jspsych plugin for collecting keystroke events' data based on jspsych-survey-text by de Leeuw (2015)
  *
- * Davi Alves Oliveira
+ * Author: Davi Alves Oliveira
+ * URL in repository: https://github.com/davi-ao/jsPsych/edit/master/plugins/jspsych-survey-keylogger.js
+ * Version: 0.1.0
  *
  */
 
